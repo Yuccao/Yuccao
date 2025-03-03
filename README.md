@@ -9,7 +9,7 @@
 <h3>About me : </h3>
 📍 : Bordeaux 🇫🇷<br>
 🧑‍🎓 : Master in Information systems and networks<br>
-🏢 : Currently working as an applicative consultant in software testing
+🏢 : Currently working as a research engineer at a public university
 </div><br>
 
 
