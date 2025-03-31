@@ -18,8 +18,6 @@
 
 <h3>Personnal projects :</h3>
 
-👕🤖 [Scraper Vinted](https://github.com/Yuccao/ScraperV) : Python script using Selenium to interact with Vinted website.
-
 🪴💧 [Bilbon Garden](https://github.com/Yuccao/BilbonGarden) : Automating plant watering with ESPs, supervision and reports
 
 *Projects will be public when completed with full documentation*
