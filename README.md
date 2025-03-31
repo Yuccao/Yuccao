@@ -33,6 +33,8 @@
 <h4>At work :</h4>
 
 <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="40" alt="cucumber logo"  />
